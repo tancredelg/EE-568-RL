@@ -1,0 +1,12 @@
+[project]
+name = "notebook1-2026"
+version = "1.0.0"
+description = "Homework 1 for EE-568"
+readme = "../README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "scipy>=1.15.3",
+    "torch>=2.10.0",
+]
